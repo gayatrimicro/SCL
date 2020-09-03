@@ -22,19 +22,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Telemedicine Providers | Specialty Care Live | Lancaster TX</title>
 
-<meta name="description" content="Virtual healthcare for everyone. Telemedicine consultations in one click at your home. Call (972)-865-4454 to schedule a tele-visit." >
+<meta name="description" content="Virtual healthcare for everyone. Telemedicine consultations in one click at your home. Call 469-545-8645 to schedule a tele-visit." >
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Telemedicine Providers | Specialty Care Live | Lancaster TX">
-<meta property="og:description" content="Virtual healthcare for everyone. Telemedicine consultations in one click at your home. Call (972)-865-4454 to schedule a tele-visit.">
+<meta property="og:description" content="Virtual healthcare for everyone. Telemedicine consultations in one click at your home. Call 469-545-8645 to schedule a tele-visit.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/telehealth-header.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Telemedicine Providers | Specialty Care Live | Lancaster TX">
-<meta name="twitter:description" content="Virtual healthcare for everyone. Telemedicine consultations in one click at your home. Call (972)-865-4454 to schedule a tele-visit.">
+<meta name="twitter:description" content="Virtual healthcare for everyone. Telemedicine consultations in one click at your home. Call 469-545-8645 to schedule a tele-visit.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/telehealth-header.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/">
 
@@ -160,11 +160,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "(972) 865-4454"
+          "telephone" : "469-545-8645"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "(972) 865-4454",
+      "telephone" : "469-545-8645",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -337,7 +337,7 @@ include("header.php");
               </div>
               <p class="c-content sm-text-center text-center custom-fonts custom-call"> Call us at </p>
 
-                <a hreflang="en" href="tel:+1(972) 865-4454" class="links cta-secondary"> (972) 865-4454 </a>
+                <a hreflang="en" href="tel:+1469-545-8645" class="links cta-secondary"> 469-545-8645 </a>
 
                 <p class="c-content sm-text-center text-center custom-fonts custom-call margin-bottom margin-top">
                   You will get connected to our Care Coordinator who will confirm information and review injury as well as collect past medical history.
@@ -374,7 +374,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
 
 
 <div class="visit-button-holder">
-<a href="tel:+1(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder">Start a visit</a>
+<a href="tel:+1469-545-8645" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder">Start a visit</a>
 </div>
 
 
@@ -394,7 +394,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     <div class="row" style="margin-bottom: 8rem;margin-top: 5rem;">
       <div class="col-md-6 col-ls-6 col-sm-12">
         <div class="visit-button-holder">
-          <a href="tel:+1(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="width: 100%;height: 100px;">Complementary Hospital<br> Telemedicine Business Model<br> Consultation</a>
+          <a href="tel:+1469-545-8645" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="width: 100%;height: 100px;">Complementary Hospital<br> Telemedicine Business Model<br> Consultation</a>
         </div>
       </div>
       <div class="col-md-6 col-ls-6 col-sm-12">

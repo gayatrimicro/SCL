@@ -18,19 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Bursitis Treatment | Specialty Care Live</title>
 
-<meta name="description" content="Hip bursitis treatment, shoulder bursitis treatment, knee bursitis treatment, elbow bursitis treatment, trochanteric bursitis treatment at home. Call us on (972)-865-4454 today to schedule your teleconsultation.">
+<meta name="description" content="Hip bursitis treatment, shoulder bursitis treatment, knee bursitis treatment, elbow bursitis treatment, trochanteric bursitis treatment at home. Call us on 469-545-8645 today to schedule your teleconsultation.">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Bursitis Treatment | Specialty Care Live">
-<meta property="og:description" content="Hip bursitis treatment, shoulder bursitis treatment, knee bursitis treatment, elbow bursitis treatment, trochanteric bursitis treatment at home. Call us on (972)-865-4454 today to schedule your teleconsultation.">
+<meta property="og:description" content="Hip bursitis treatment, shoulder bursitis treatment, knee bursitis treatment, elbow bursitis treatment, trochanteric bursitis treatment at home. Call us on 469-545-8645 today to schedule your teleconsultation.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
 <meta property="og:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Bursitis Treatment | Specialty Care Live">
-<meta name="twitter:description" content="Hip bursitis treatment, shoulder bursitis treatment, knee bursitis treatment, elbow bursitis treatment, trochanteric bursitis treatment at home. Call us on (972)-865-4454 today to schedule your teleconsultation.">
+<meta name="twitter:description" content="Hip bursitis treatment, shoulder bursitis treatment, knee bursitis treatment, elbow bursitis treatment, trochanteric bursitis treatment at home. Call us on 469-545-8645 today to schedule your teleconsultation.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
@@ -157,11 +157,11 @@ fjs.parentNode.insertBefore(js, fjs);
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "(972) 865-4454"
+          "telephone" : "469-545-8645"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "(972) 865-4454",
+      "telephone" : "469-545-8645",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -337,7 +337,7 @@ data-layout="button_count">
 <section class="BlgStrtLast">
   <div class="container">
     <p>If you or anyone you know is suffering from debilitating lower back pain, <a href="http://specialtycarelive.com/">please consult our expert doctors and get the proper treatment.</a></p>
-    <p>Call us on <a href="tel:(972)-865-4454">(972)-865-4454</a> or <a href="http://specialtycarelive.com/contact-us/">request a callback by submitting your contact details.</a></p>
+    <p>Call us on <a href="tel:469-545-8645">469-545-8645</a> or <a href="http://specialtycarelive.com/contact-us/">request a callback by submitting your contact details.</a></p>
   </div>  
 </section>
 

@@ -18,19 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Advanced Spine &amp; Pain Clinic | Specialty Care Live</title>
 
-<meta name="description" content="Find the best online spine &amp; back pain telemedicine service. Call (972)-865-4454 to schedule a tele-visit." >
+<meta name="description" content="Find the best online spine &amp; back pain telemedicine service. Call 469-545-8645 to schedule a tele-visit." >
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Advanced Spine &amp; Pain Clinic | Specialty Care Live">
-<meta property="og:description" content="Find the best online spine &amp; back pain telemedicine service. Call (972)-865-4454 to schedule a tele-visit.">
+<meta property="og:description" content="Find the best online spine &amp; back pain telemedicine service. Call 469-545-8645 to schedule a tele-visit.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/spine_003.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/spine/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Advanced Spine &amp; Pain Clinic | Specialty Care Live">
-<meta name="twitter:description" content="Find the best online spine &amp; back pain telemedicine service. Call (972)-865-4454 to schedule a tele-visit.">
+<meta name="twitter:description" content="Find the best online spine &amp; back pain telemedicine service. Call 469-545-8645 to schedule a tele-visit.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/spine_003.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/spine/">
 
@@ -121,11 +121,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "(972) 865-4454"
+          "telephone" : "469-545-8645"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "(972) 865-4454",
+      "telephone" : "469-545-8645",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -397,7 +397,7 @@ include("../header.php");
             <p class="custom-fonts mobile-para-padding">Telehealth solutions answer the problems of cost, access, and convenience while achieving desired outcomes. Telehealth solutions may in fact be the perfect vehicle to effect the greatest therapeutic change in patients and lower cost for all stakeholders. Telehealth closes the distance and collapses time between provider and patient and enables faster insight into the patient’s condition, progress, and ongoing needs.</p>
             
             <p class="text-left mobile-para-padding"> 
-                <a href="tel:+1(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
+                <a href="tel:+1469-545-8645" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at 469-545-8645</a>
             </p>
           </div>
 
@@ -458,7 +458,7 @@ include("../header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-545-8645" class="links cta-secondary footer-links"> 469-545-8645</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>
