@@ -263,7 +263,7 @@ include("../header.php");
           <div class=""></div>
          <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center"> Easy, Affordable, Convenient & Effective </h3>
          <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
-         Low back pain hurts, it’s inconvenient, and often very expensive. Injury Live offers a new way to get better and stay better using smart, online tools and expert guidance.</span>
+         Low back pain hurts, it’s inconvenient, and often very expensive.  Specialty Care Live offers a new way to get better and stay better using smart, online tools and expert guidance.</span>
          </h1>
         
         </div>
@@ -323,9 +323,9 @@ include("../header.php");
           <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">Our Back & Spine Pain Services</h1>
         </div>
           <p class="custom-fonts mobile-para-padding double-mobile">
-           Injury Live offers our patients leading-edge solutions for back pain and spine pain, either of the acute or chronic variety. Pain management is one of the most important parts of a patient’s physical, mental, and emotional well-being. </p>
+            Specialty Care Live offers our patients leading-edge solutions for back pain and spine pain, either of the acute or chronic variety. Pain management is one of the most important parts of a patient’s physical, mental, and emotional well-being. </p>
           <p class="custom-fonts mobile-para-padding double-mobile">
-          Injury Live is based on the clinical experience and expertise of our specialists and the most recent low back pain research from over 100 clinical studies. The result –  Injury Live users get immediate relief from their low back pain and learn the skill necessary to keep it from coming back.
+           Specialty Care Live is based on the clinical experience and expertise of our specialists and the most recent low back pain research from over 100 clinical studies. The result –   Specialty Care Live users get immediate relief from their low back pain and learn the skill necessary to keep it from coming back.
           </p>
            <p class="text-left mobile-para-padding"> 
                 <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>

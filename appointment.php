@@ -9,7 +9,7 @@
 	 
 
 
-	$subject =" Injury Live " . $fname;
+	$subject ="  Specialty Care Live " . $fname;
 	$headers  = 'MIME-Version: 1.0' . "\r\n";
 	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 	$headers .= 'From: Appointment Form: <' . $emailid .">" ."\r\n";

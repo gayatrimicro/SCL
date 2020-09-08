@@ -324,7 +324,7 @@ include("../header.php");
           <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">Be Seen by a Surgeon at YOUR Convenience, and Get Answers NOW!</h1>
         </div>
           <p class="custom-fonts mobile-para-padding double-mobile">
-           Injury Live provides all patients with a convenient, secure and clinically informative encounter with one of our Tele-Orthopedic specialists. Our remote providers manage musculoskeletal injuries, and chronic bone and joint conditions by means of telemedicine. Our physical exam is supported by imaging and telehealth peripherals that allow our Tele-Orthopedic experts to treat a wide variety of symptoms. You will receive a diagnosis, advice, physical therapy and prescription order for select medications and braces, as your doctor deems necessary.
+            Specialty Care Live provides all patients with a convenient, secure and clinically informative encounter with one of our Tele-Orthopedic specialists. Our remote providers manage musculoskeletal injuries, and chronic bone and joint conditions by means of telemedicine. Our physical exam is supported by imaging and telehealth peripherals that allow our Tele-Orthopedic experts to treat a wide variety of symptoms. You will receive a diagnosis, advice, physical therapy and prescription order for select medications and braces, as your doctor deems necessary.
           </p>
            <p class="text-left mobile-para-padding"> 
                 <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
@@ -364,7 +364,7 @@ include("../header.php");
 
 
            <div class="pa custom-fonts">
-            <p class="custom-fonts mobile-para-padding">Injury Live provides all patients with a convenient, secure and clinically informative encounter with our Physical Therapy team. Our remote therapists manage the rehabilitation of injuries and conditions by means of telemedicine. Our therapy program is supported by partnering with on-site medical staff to help patients hit program goals, as outlined by their physician orders.</p>
+            <p class="custom-fonts mobile-para-padding"> Specialty Care Live provides all patients with a convenient, secure and clinically informative encounter with our Physical Therapy team. Our remote therapists manage the rehabilitation of injuries and conditions by means of telemedicine. Our therapy program is supported by partnering with on-site medical staff to help patients hit program goals, as outlined by their physician orders.</p>
             
             <p class="text-left mobile-para-padding"> 
                 <a href="tel:+1469-545-8645" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at 469-545-8645</a>
