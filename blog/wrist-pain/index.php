@@ -25,13 +25,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Wrist Pain | Specialty Care Live">
 <meta property="og:description" content="Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. If you or anyone you know is suffering from wrist pain, call 469-5458645 to schedule a tele-visit.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/wp0.jpeg">
 <meta property="og:url" content="http://specialtycarelive.com/blog/wrist-pain">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Wrist Pain | Specialty Care Live">
 <meta name="twitter:description" content="Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. If you or anyone you know is suffering from wrist pain, call 469-5458645 to schedule a tele-visit.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/wp0.jpeg">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/wrist-pain">
 
 <meta name="robots" content="index, follow" />
