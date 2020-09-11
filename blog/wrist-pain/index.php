@@ -344,7 +344,7 @@ data-layout="button_count">
       </li>
       <li><span>13.</span><span class="span_did"><p>Osteoporosis</p></span>
       </li>
-      <li><span>13.</span><span class="span_did"><p>Juvenile Arthritis</p></span>
+      <li><span>14.</span><span class="span_did"><p>Juvenile Arthritis</p></span>
       </li>
     </ul>
       </div>
