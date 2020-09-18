@@ -25,13 +25,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
 <meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/diag.png">
 <meta property="og:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
 <meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/diag.png">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
 <meta name="robots" content="index, follow" />

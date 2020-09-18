@@ -25,13 +25,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Bursitis | Specialty Care Live">
 <meta property="og:description" content="Meta Description - When the bursae of your body get swollen to the point of being painful, that condition is called bursitis.  Call us on 469-545-8645 today to schedule your teleconsultation.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/burst1.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Bursitis | Specialty Care Live">
 <meta name="twitter:description" content="Meta Description - When the bursae of your body get swollen to the point of being painful, that condition is called bursitis.  Call us on 469-545-8645 today to schedule your teleconsultation.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/burst1.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
 <meta name="robots" content="index, follow" />
