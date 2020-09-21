@@ -16,43 +16,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<title>Blog | Specialty Care Live</title>
+<title>What is Ankle Surgery?</title>
 
-<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation." >
+<meta name="description" content="Ankle surgery might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. If you or anyone you know is suffering from ankle pain, call 469-5458645 to schedule a tele-visit.">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
-<meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta property="og:url" content="http://specialtycarelive.com/employers/">
+<meta property="og:title" content="What is Ankle Surgery?">
+<meta property="og:description" content="Ankle surgery might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. If you or anyone you know is suffering from ankle pain, call 469-5458645 to schedule a tele-visit.">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/as1.jpg">
+<meta property="og:url" content="http://specialtycarelive.com/blog/what-is-ankle-surgery">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta name="twitter:url" content="http://specialtycarelive.com/employers/">
+<meta name="twitter:title" content="What is Ankle Surgery?">
+<meta name="twitter:description" content="Ankle surgery might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. If you or anyone you know is suffering from ankle pain, call 469-5458645 to schedule a tele-visit.">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/as1.jpg">
+<meta name="twitter:url" content="http://specialtycarelive.com/blog/ulnar-wrist-pain">
 
 <meta name="robots" content="index, follow" />
-<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1"/>
 
 
-<link rel="canonical" href="http://specialtycarelive.com/employers/">
-<link rel="alternate" href="http://specialtycarelive.com/employers/" hreflang="en-us" />
+<link rel="canonical" href="http://specialtycarelive.com/blog/what-is-ankle-surgery">
+<link rel="alternate" href="http://specialtycarelive.com/blog/what-is-ankle-surgery" hreflang="en-us"/>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
-<link href="../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
-<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/main.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/testimonials.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/newstyle.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/testimonials.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/newstyle.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
@@ -91,13 +91,39 @@ fjs.parentNode.insertBefore(js, fjs);
     margin-top: 2.11111rem;
     color: #3b3f48;
 }
-.Mn_blg .col-sm-4{
-  margin-bottom: 40px;
+.ReqCllbck{
+  background-color: #19365f;
+    color: #fff;
+    padding: 15px;
+    margin-top: 25px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.ReqCllbck:hover{
+  background-color: #097ec2;
+    color: #fff;
+}
+.h3bgh{
+      font-size: 25px;
+    margin-bottom: 35px;
+    font-weight: 600;
+    margin-top: 25px;
 }
 @media (max-width: 600px){
   .bigger-font-medium {
     font-size: 20px;
 }
+}
+@media (max-width: 767px) and (min-width: 320px){
+.h3bgh{
+    font-size: 25px;
+    margin-bottom: 28px;
+    margin-top: 30px !important; 
+    line-height: 32px;
+}
+}
+.ul_limar li{
+  margin-bottom: 0px !important;
 }
 </style>
 
@@ -161,7 +187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <?php
-include("../header.php");
+include("../../header.php");
 ?>
 
 
@@ -232,29 +258,38 @@ include("../header.php");
 
 <div class="c-layout-page"> 
 
-
-<section class="BacBlg">
-  <h3>Blog</h3>
-  <!-- Your share button code -->
-
+<section class="banner">
+   <div class="container new-container">
+      <div class="row">
+                  <div class="large-12 columns">
+                              <picture>
+                                 <source srcset="../../assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
+                                 <img src="../../assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content">
+                                
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Ankle Surgery</h3>
+                                 <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
+                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
+                                </p>
+                              </div>
+                  </div>
+               
+      </div>
+   </div>
 </section>
 <div class="BrdCrmb">
-  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a></p>
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a>  /  &nbsp;<a href="http://specialtycarelive.com/blog/what-is-ankle-surgery/">Ankle Surgery</a></p>
 </div>
-<section class="Mn_blg">
+<section class="BlgStrt">
   <div class="container">
-    <div class="row">
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/as2.jpg"></div>
-          <div class="Txtsec">
-            <h4>Ankle Surgery</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 21/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Ankle surgery might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. The kind of surgery that is right for you depends upon your age, your level of activity, and the seriousness of your joint damage or deformity. Seriously affected ankle joints might require to have the bones fused together or even replaced with an artificial joint.</p>
-            <a href="../blog/what-is-ankle-surgery/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
+    <div class="ShaInfo">
+      <div class="row">
+        <div class="col-sm-6 text-left">
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 16/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
+        </div>
+        <div class="col-sm-6 text-right">
+          <div class="fb-share-button" 
 data-href="http://specialtycarelive.com/blog/what-is-ankle-surgery/" 
 data-layout="button_count">
 </div>
@@ -263,180 +298,74 @@ data-layout="button_count">
 <script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-ankle-surgery/"></script>
 </div>
 <div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-ankle-surgery/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ulw2.jpg"></div>
-          <div class="Txtsec">
-            <h4>Ulnar Wrist Pain</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 16/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Ulnar wrist pain occurs on the side of your arm which has your pinkie-finger. It can result when your bones, cartilage, ligaments or tendons get injured severely. The pain worsens when you try to grip something.</p>
-            <a href="../blog/ulnar-wrist-pain/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/ulnar-wrist-pain/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/ulnar-wrist-pain/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/ulnar-wrist-pain/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/wp1.jpg"></div>
-          <div class="Txtsec">
-            <h4>Wrist Pain</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. Pain, stiffness & inflammation are some of the symptoms of an injury to your wrist or a wrist fracture.<br>You can also have a wrist injury in your ulna bone due to an accident.</p>
-            <a href="../blog/wrist-pain/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/wrist-pain/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/wrist-pain/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/wrist-pain/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/rhe5.jpg"></div>
-          <div class="Txtsec">
-            <h4>Rheumatoid Arthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Rheumatoid arthritis is a chronic inflammatory disorder that might affect more than just your joints. In some people, the condition might damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. An autoimmune disease, rheumatoid arthritis happens when your immune system mistakenly attacks your own body's tissues.</p>
-            <a href="../blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/bt0.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bursitis Treatment</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 2/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">The most common locations of bursitis are the hips, shoulders, knees, elbows, and heels of our foot. Among these, bursitis in hips is the most dangerous and can decrease mobility. There are two types of hip bursitis - trochanteric bursitis and iliopsoas bursa. </p>
-            <a href="../blog/bursitis-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis-treatment/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis-treatment/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ost3.jpg"></div>
-          <div class="Txtsec">
-            <h4>Osteoarthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. It is also called a degenerative joint disease because it mainly affects the joints of your knees, hips, hands, and spine.</p>
-            <a href="../blog/osteoarthritis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/osteoarthritis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/osteoarthritis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/osteoarthritis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/burst1.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bursitis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
-            <a href="../blog/bursitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/neck-pain.jpg"></div>
-          <div class="Txtsec">
-            <h4>Degenerative Disc Disease</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
-            <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/degenerative-disc-disease/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/degenerative-disc-disease/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/degenerative-disc-disease/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
         </div>
       </div>
     </div>
+    <h1>Ankle Surgery</h1>
+    <h3 class="h3bgh" style="margin-top: 50px;">What is Ankle Surgery?</h3>
+    <p><a href="http://specialtycarelive.com/orthopedics/">Ankle surgery</a> might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. The kind of surgery that is right for you depends upon your age, your level of activity, and the seriousness of your joint damage or deformity. Seriously affected ankle joints might require to have the bones fused together or even replaced with an artificial joint.</p>
+    <a href="http://specialtycarelive.com/contact-us/" class="ReqCllbck">Request a callback</a>
+  </div>  
+</section>
+<section class="ul_limar lftRig">
+  <div class="container">    
+    <div class="row">
+      <div class="col-sm-6">
+        <h3 class="h3bgh" style="margin-top: 0px;">Ankle fusion</h3>
+        <p>In this procedure, the surgeon roughens the ends of the affected bones and then fastens them together with metal plates and screws. During the healing process, the affected bones fuse together into one combined bone.</p>
+        <p>Ankle fusion is normally very successful in relieving arthritis pain. But it also limits the ankle's motion. To make up for this, nearby joints might move more which increases the risk of developing arthritis in these joints.</p>
+        <p>Ankle fusion is generally suggested for younger people with more active lifestyles. Compared with ankle replacement, ankle fusion:</p>
+        <ul>
+          <li>Is usually more durable</li>
+          <li>Needs fewer restrictions in activity during recovery</li>
+        </ul>
+      </div>
+      <div class="col-sm-6">
+        <img src="../../assets/images/blog/as1.jpg" width="100%" alt="">
+      </div>
+    </div>
+    
+    <br>
+  </div>  
+</section> 
+<section class="lftRig">
+  <div class="container">
+    <h3>Ankle replacement</h3>
+        <p>In this procedure, the surgeon removes the ends of the affected bones and fits a plastic and metal replacement joint onto them. The artificial joint helps the ankle retain more natural movement, so there is less risk of arthritis developing in the nearby joints. Although, loosening of the components might happen.</p>
+        <p>Artificial ankle joints are usually suggested for healthy people above the age of 60 who have less active lifestyles. High impact activities like running and jumping might damage an artificial ankle joint.</p>
+        <p>Ankle replacement may not be a good choice if you:</p>
+        <ul>
+          <li><span></span><span class="span_did"><p>Are younger than 50</p></span></li>
+          <li><span></span><span class="span_did"><p>Have weakened ankle ligaments</p></span></li>
+          <li><span></span><span class="span_did"><p>Participate in high impact sports or work</p></span></li>
+          <li><span></span><span class="span_did"><p>Have misaligned ankle bones</p></span></li>
+          <li><span></span><span class="span_did"><p>Are significantly overweight</p></span></li>
+          <li><span></span><span class="span_did"><p>Have nerve damage from diabetes</p></span></li>
+          <li><span></span><span class="span_did"><p>Are a heavy smoker</p></span></li>
+        </ul><br>
+        <p><a href="http://specialtycarelive.com/">Specialty Care Live</a> services are available in 6 different locations throughout Texas - Lancaster, Plano, Midland, Ennis, Fort Worth, and Farmers Branch.</p>  
   </div>
 </section>
+
+
+
+
+<section class="BlgStrtLast">
+  <div class="container">    
+    <p>If you or anyone you know is suffering from orthopedics related problems such as ankle pain, the expert providers at Specialty Care Live take care of your health and help you recover.</a></p>
+    <p>Call <a href="tel:469-545-8645">469-545-8645</a> to book a telehealth appointment for an at-home check-up. You can <a href="http://specialtycarelive.com/contact-us/">request a callback from us</a> too.</p>
+  </div>  
+</section>
+
 
 
   
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="../../assets/slider/sweetalert.min.js"></script> 
 
  <?php
-include("../footer.php");
+include("../../footer.php");
 ?>
   
 </div>
