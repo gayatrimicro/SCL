@@ -25,13 +25,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:type" content="Website">
 <meta property="og:title" content="What is Bone Cancer? What are its Symptoms, Causes and Treatment?">
 <meta property="og:description" content="Bone cancer can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. If you or anyone you know is suffering from bone cancer, call 469-5458645 to schedule a tele-visit.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/rhe0.jpg">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/bc1.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="What is Bone Cancer? What are its Symptoms, Causes and Treatment?">
 <meta name="twitter:description" content="Bone cancer can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. If you or anyone you know is suffering from bone cancer, call 469-5458645 to schedule a tele-visit.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/rhe0.jpg">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/bc1.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment">
 
 <meta name="robots" content="index, follow" />
