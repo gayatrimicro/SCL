@@ -16,43 +16,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<title>Blog | Specialty Care Live</title>
+<title>What is Bone Cancer? What are its Symptoms, Causes and Treatment?</title>
 
-<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation." >
+<meta name="description" content="Bone cancer can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. If you or anyone you know is suffering from bone cancer, call 469-5458645 to schedule a tele-visit.">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
-<meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta property="og:url" content="http://specialtycarelive.com/employers/">
+<meta property="og:title" content="What is Bone Cancer? What are its Symptoms, Causes and Treatment?">
+<meta property="og:description" content="Bone cancer can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. If you or anyone you know is suffering from bone cancer, call 469-5458645 to schedule a tele-visit.">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/rhe0.jpg">
+<meta property="og:url" content="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta name="twitter:url" content="http://specialtycarelive.com/employers/">
+<meta name="twitter:title" content="What is Bone Cancer? What are its Symptoms, Causes and Treatment?">
+<meta name="twitter:description" content="Bone cancer can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. If you or anyone you know is suffering from bone cancer, call 469-5458645 to schedule a tele-visit.">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/rhe0.jpg">
+<meta name="twitter:url" content="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment">
 
 <meta name="robots" content="index, follow" />
-<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1"/>
 
 
-<link rel="canonical" href="http://specialtycarelive.com/employers/">
-<link rel="alternate" href="http://specialtycarelive.com/employers/" hreflang="en-us" />
+<link rel="canonical" href="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment">
+<link rel="alternate" href="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment" hreflang="en-us"/>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
-<link href="../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
-<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/main.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/testimonials.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/newstyle.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/testimonials.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/newstyle.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
@@ -91,8 +91,17 @@ fjs.parentNode.insertBefore(js, fjs);
     margin-top: 2.11111rem;
     color: #3b3f48;
 }
-.Mn_blg .col-sm-4{
-  margin-bottom: 40px;
+.ReqCllbck{
+  background-color: #19365f;
+    color: #fff;
+    padding: 15px;
+    margin-top: 25px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.ReqCllbck:hover{
+  background-color: #097ec2;
+    color: #fff;
 }
 @media (max-width: 600px){
   .bigger-font-medium {
@@ -134,11 +143,11 @@ fjs.parentNode.insertBefore(js, fjs);
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "469-545-8645"
+          "telephone" : "(972) 865-4454"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "469-545-8645",
+      "telephone" : "(972) 865-4454",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -151,6 +160,28 @@ fjs.parentNode.insertBefore(js, fjs);
     ]
     }
 </script>
+<style type="text/css">
+  .h3bgh{
+      font-size: 25px;
+    margin-bottom: 35px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+@media (max-width: 767px) and (min-width: 320px){
+.h3bgh{
+    font-size: 25px;
+    margin-bottom: 28px;
+    margin-top: 0px;
+    line-height: 32px;
+}
+}
+.ListItem li{
+  list-style: disc !important;
+}
+.ListItem {
+  padding-left: 30px !important;
+}
+</style>
 </head>
 
 <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen"> 
@@ -161,7 +192,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <?php
-include("../header.php");
+include("../../header.php");
 ?>
 
 
@@ -232,29 +263,38 @@ include("../header.php");
 
 <div class="c-layout-page"> 
 
-
-<section class="BacBlg">
-  <h3>Blog</h3>
-  <!-- Your share button code -->
-
+<section class="banner">
+   <div class="container new-container">
+      <div class="row">
+                  <div class="large-12 columns">
+                              <picture>
+                                 <source srcset="../../assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
+                                 <img src="../../assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content">
+                                
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Bone Cancer</h3>
+                                 <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
+                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
+                                </p>
+                              </div>
+                  </div>
+               
+      </div>
+   </div>
 </section>
 <div class="BrdCrmb">
-  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a></p>
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a>  /  &nbsp;<a href="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment/">Bone Cancer</a></p>
 </div>
-<section class="Mn_blg">
+<section class="BlgStrt">
   <div class="container">
-    <div class="row">
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/bc4.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bone Cancer</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 22/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Bone cancer can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. Bone cancer is rare, making up less than 1% of all cancers. In fact, non-cancerous bone tumors are much more common than the cancerous ones.</p>
-            <a href="../blog/what-is-bone-cancer-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
+    <div class="ShaInfo">
+      <div class="row">
+        <div class="col-sm-6 text-left">
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 22/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
+        </div>
+        <div class="col-sm-6 text-right">
+          <div class="fb-share-button" 
 data-href="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment/" 
 data-layout="button_count">
 </div>
@@ -263,207 +303,153 @@ data-layout="button_count">
 <script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment/"></script>
 </div>
 <div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/as2.jpg"></div>
-          <div class="Txtsec">
-            <h4>Ankle Surgery</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 21/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Ankle surgery might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. The kind of surgery that is right for you depends upon your age, your level of activity, and the seriousness of your joint damage or deformity. Seriously affected ankle joints might require to have the bones fused together or even replaced with an artificial joint.</p>
-            <a href="../blog/what-is-ankle-surgery/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/what-is-ankle-surgery/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-ankle-surgery/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-ankle-surgery/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ulw2.jpg"></div>
-          <div class="Txtsec">
-            <h4>Ulnar Wrist Pain</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 16/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Ulnar wrist pain occurs on the side of your arm which has your pinkie-finger. It can result when your bones, cartilage, ligaments or tendons get injured severely. The pain worsens when you try to grip something.</p>
-            <a href="../blog/ulnar-wrist-pain/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/ulnar-wrist-pain/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/ulnar-wrist-pain/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/ulnar-wrist-pain/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
         </div>
       </div>
     </div>
-      <div class="row">
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/wp1.jpg"></div>
-          <div class="Txtsec">
-            <h4>Wrist Pain</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. Pain, stiffness & inflammation are some of the symptoms of an injury to your wrist or a wrist fracture.<br>You can also have a wrist injury in your ulna bone due to an accident.</p>
-            <a href="../blog/wrist-pain/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/wrist-pain/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/wrist-pain/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/wrist-pain/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/rhe5.jpg"></div>
-          <div class="Txtsec">
-            <h4>Rheumatoid Arthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Rheumatoid arthritis is a chronic inflammatory disorder that might affect more than just your joints. In some people, the condition might damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. An autoimmune disease, rheumatoid arthritis happens when your immune system mistakenly attacks your own body's tissues.</p>
-            <a href="../blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/bt0.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bursitis Treatment</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 2/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">The most common locations of bursitis are the hips, shoulders, knees, elbows, and heels of our foot. Among these, bursitis in hips is the most dangerous and can decrease mobility. There are two types of hip bursitis - trochanteric bursitis and iliopsoas bursa. </p>
-            <a href="../blog/bursitis-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis-treatment/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis-treatment/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-    </div>
+    <h1>Bone Cancer</h1>
+    <h3 class="h3bgh">What is Bone Cancer?</h3>
+    <p><a href="http://specialtycarelive.com/orthopedics/">Bone cancer</a>  can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. Bone cancer is rare, making up less than 1% of all cancers. In fact, non-cancerous bone tumors are much more common than the cancerous ones.</p>
+    <p>The term "bone cancer" does not include cancers that start elsewhere in the body and spread or metastasize to the bone. Instead, those cancers are named for where they started, such as breast cancer that has spread to the bone.</p>
+    <p>Some types of bone cancer happen primarily in children, while others affect mostly adults. Surgical removal is the most common treatment, but chemotherapy and radiation therapy also might be utilized. The decision to use surgery, chemotherapy or radiation therapy is based on the kind of bone cancer being treated.</p>
+    <a href="http://specialtycarelive.com/contact-us/" class="ReqCllbck">Request a callback</a>
+  </div>  
+</section> 
+<section class="lftRig">
+  <div class="container">
     <div class="row">
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ost3.jpg"></div>
-          <div class="Txtsec">
-            <h4>Osteoarthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. It is also called a degenerative joint disease because it mainly affects the joints of your knees, hips, hands, and spine.</p>
-            <a href="../blog/osteoarthritis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/osteoarthritis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/osteoarthritis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/osteoarthritis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
+      <div class="col-sm-6">
+        <h3>Bone Cancer Symptoms</h3>
+        <p>Symptoms of bone cancer include:</p>
+        <ul>
+          <li><p>Bone pain</p></li>
+          <li><p>Inflammation and tenderness near the affected area</p></li>
+          <li><p>Weakened bone, leading to fracture</p></li>
+          <li><p>Fatigue</p></li>
+          <li><p>Unintended weight loss</p></li>
+        </ul>        
       </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/burst1.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bursitis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
-            <a href="../blog/bursitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/neck-pain.jpg"></div>
-          <div class="Txtsec">
-            <h4>Degenerative Disc Disease</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
-            <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/degenerative-disc-disease/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/degenerative-disc-disease/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/degenerative-disc-disease/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
+      <div class="col-sm-6"><img src="../../assets/images/blog/bc1.jpg"></div>
     </div>
   </div>
 </section>
+<section class="BlgStrt">
+  <div class="container">
+    <h3 class="h3bgh">When should you see a doctor</h3>
+    <p>Book an appointment with your doctor if you or your child develops bone pain that: </p>
+    <ul class="ListItem">
+      <li>Comes and goes</li>
+      <li>Becomes worse at night</li>
+      <li>Is not helped by over-the-counter pain relievers</li>
+    </ul><br>
+    <h3 class="h3bgh">Causes</h3>
+    <p>The cause of most bone cancers is not known. A little number of bone cancers are associated with hereditary conditions, whereas the others are associated with past radiation exposure.</p>
+  </div>  
+</section>
+<section class="lftRig PAdB0">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="marT28">Types of bone cancer</h3>
+        <p> Bone cancers are broken down into separate types based upon the type of cell where the cancer started. The most common types of bone cancer includes:</p>
+        <ul>
+          <li><p><b>Osteosarcoma – </b>Osteosarcoma is the first and most common type of bone cancer. In this tumor, the cancerous cells create bone. This variety of bone cancer happens most usually in children and young adults, in the bones of the leg or arm. In rare cases, osteosarcomas might arise outside of bones or extraskeletal osteosarcomas.</p></li>
+          <li><p><b>Chondrosarcoma -</b> Chondrosarcoma is the second most common type of bone cancer. In this tumor, the cancerous cells create cartilage. Chondrosarcoma generally happens in the pelvis, legs or arms in middle aged and senior citizens.</p></li>
+          <li><p><b>Ewing sarcoma -</b>Ewing sarcoma tumors most often arise in the pelvis, legs or arms of children and young adults.</p></li>          
+        </ul>
+      </div>      
+    </div>
+  </div>
+</section>
+<section class="lftRig">
+  <div class="container">
+    <div class="row">      
+      <div class="col-sm-6">
+        <h3>Bone Cancer Diagnosis</h3>
+        <p>Imaging tests might help decide the region and size of bone tumor, and whether the tumors have spread to other parts of the body. The types of imaging tests suggested depends upon your individual signs and symptoms. Tests might include:</p>
+        <ul>
+          <li>Bone scan</li>
+          <li>Computerized tomography (CT)</li>
+          <li>Magnetic resonance imaging (MRI)</li>
+          <li>Positron emission tomography (PET)</li>
+          <li>X-ray</li>
+        </ul>
+      </div>
+      <div class="col-sm-6"><img src="../../assets/images/blog/bc3.jpg"></div>      
+    </div>
+  </div>
+</section>
+<section class="BlgStrt">
+  <div class="container">
+    <p><b>Needle or surgical biopsies</b></p>
+    <p>Your primary care physician might suggest a procedure to remove a sample of tissue (biopsy) from the tumor for laboratory testing. Testing might tell your primary care physician whether the tissue is cancerous and, if so, what kind of cancer you have. It might also show whether the tumor cells are growing quickly or slowly.</p><br>
+    <p>Kinds of biopsy procedures used to detect bone cancer includes:</p>
+
+    <ul class="ListItem">
+      <li><p><b>Inserting a needle through your skin and into a tumor -</b> During a needle biopsy, your primary care physician inserts a thin needle through your skin and guides it into the tumor. Your primary care physician uses the needle to remove small pieces of tissue from the tumor.</p></li>
+      <li><p><b>Surgery to remove a tissue sample for testing -</b> During a surgical biopsy, your primary care physician makes an incision through your skin and removes either the entire tumor or a part of it.</p></li>
+    </ul><br>
+    <p>Deciding the type of biopsy you require and the terms of how it should be performed requires careful planning by your healthcare provider team. Primary care physician need to perform the biopsy in a way that would not interfere with future surgery to remove bone cancer. For this reason, ask your primary care physician for a referral to a team of primary care physicians with extensive experience in treating bone tumors before your biopsy.</p><br>
+
+    <p><b>Bone cancer Stages</b></p>
+    <p>If your primary care physician verifies a detection of bone cancer, he or she tries to decide the extent or stage of the cancer because that will guide your treatment options. Details to be taken into consideration includes:</p>
+    <ul class="ListItem">
+      <li>The size of the tumor</li>
+      <li>How fast the cancer is growing</li>
+      <li>The number of bones damaged, like adjacent vertebrae in the spine</li>
+      <li>Whether the cancer has spread or metastasize to other parts of the body</li>
+    </ul><br><br>
+    <p>The extent or stages of bone cancer are suggested by Roman numerals, starting from 0 to IV. The lowest stages suggest that the tumor is smaller and less aggressive. By stage IV, the cancer has spread or metastasized to other parts of the body.</p>
+  </div>  
+</section>
+
+<section class="lftRig PAdB0">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6"><img src="../../assets/images/blog/bc2.png"></div>
+      <div class="col-sm-6">
+        <h3 class="marT28">Bone Cancer Treatment</h3>
+        <p>The treatment alternatives for your bone cancer are based upon the type of cancer you have, the stage or extent of the cancer, your overall health and your preferences. </p>
+        <p>Different bone cancers react to different treatments, and your primary care physicians might help guide you in what is best for your cancer. For instance, some bone cancers are treated with just surgery; some with surgery and chemotherapy both; and some with surgery, chemotherapy and radiation therapy.</p>
+      </div>      
+    </div>
+  </div>
+</section>
+<section class="lftRig">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="marT28">Surgery</h3>
+        <p>The objective of surgery is to remove the entire cancerous tumor. In most of the cases, this includes special techniques to remove the tumor in one single piece, along with a small part of healthy tissue that surrounds it. The surgeon replaces the lost bone with some bone from another portion of your body, with material from a bone bank or with a replacement made of metal and hard plastic.</p>
+        <p>Bone cancers that are very large or situated in a complicated point on the bone might require surgery to remove all or part of a limb or amputation. As other treatments have been advanced, amputation is becoming less common. If amputation is required, you will likely be fitted with an artificial limb and go through training to learn to do everyday tasks using your new limb.</p><br>
+
+        <h3 class="marT28">Chemotherapy</h3>
+        <p>Chemotherapy uses strong anti-cancer drugs, often delivered through a vein or intravenously, to kill cancer cells. Although, this type of treatment works better for some forms of bone cancer than for others. For instance, chemotherapy is usually not very effective for chondrosarcoma, but it is an important part of treatment for osteosarcoma and Ewing sarcoma.</p><br>
+
+        <h3 class="marT28">Radiation therapy</h3>
+        <p>Radiation therapy exercises high powered beams of energy, like X-rays, to kill the cancer cells. During radiation therapy, you lie down on a table when a special machine moves around you and aims the energy beams at right points on your body.</p>
+        <p>Radiation therapy is usually used before an operation because it might decrease the tumor and make it easier to remove. This, in turn, might help reduce the likelihood that amputation will be required.</p>
+        <p>Radiation therapy might also be used in people with bone cancer that cannot be removed with surgery. After surgery, radiation therapy might be used to kill any cancer cells that might be left behind. For people with advanced bone cancer, radiation therapy might help control signs and symptoms, like pain.</p><br>
+        <p><a href="http://specialtycarelive.com/">Specialty Care Live</a> services are available in 6 different locations throughout Texas - Lancaster, Plano, Midland, Ennis, Fort Worth, and Farmers Branch.</p>
+      </div>      
+    </div>
+  </div>
+</section>
+<section class="BlgStrtLast">
+  <div class="container">
+    <p>If you or anyone you know is suffering from orthopedics related problems such as bone cancer, the expert providers at Specialty Care Live take care of your health and help you recover.</p>
+    <p>Call <a href="tel:469-5458645">469-5458645</a> to book a telehealth appointment for an at-home check-up. You can <a href="http://specialtycarelive.com/contact-us/">request a callback from us</a> too.</p>
+  </div>  
+</section>
+
 
 
   
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="../../assets/slider/sweetalert.min.js"></script> 
 
  <?php
-include("../footer.php");
+include("../../footer.php");
 ?>
   
 </div>
