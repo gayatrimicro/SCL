@@ -18,19 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Degenerative Disc Disease | Specialty Care Live</title>
 
-<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
+<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation.">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
+<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/diag.png">
 <meta property="og:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
+<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/diag.png">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
@@ -143,11 +143,11 @@ fjs.parentNode.insertBefore(js, fjs);
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "469-545-8645"
+          "telephone" : "469-805-4561"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "469-545-8645",
+      "telephone" : "469-805-4561",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -386,7 +386,7 @@ data-layout="button_count">
 <section class="BlgStrtLast">
   <div class="container">
     <p>If you or anyone you know is suffering from debilitating lower back pain, <a href="http://specialtycarelive.com/">please consult our expert doctors and get the proper treatment.</a></p>
-    <p>Call us on <a href="tel:469-545-8645">469-545-8645</a> or <a href="http://specialtycarelive.com/contact-us/">request a callback by submitting your contact details.</a></p>
+    <p>Call us on <a href="tel:469-805-4561">469-805-4561</a> or <a href="http://specialtycarelive.com/contact-us/">request a callback by submitting your contact details.</a></p>
   </div>  
 </section>
 

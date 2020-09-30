@@ -18,19 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Telemedicine Solutions for the Employers | Specialty Care Live</title>
 
-<meta name="description" content="Put employee health first without compromising business with our telemedicine solutions. Call 469-545-8645 to inquire." >
+<meta name="description" content="Put employee health first without compromising business with our telemedicine solutions. Call 469-805-4561 to inquire." >
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Telemedicine Solutions for the Employers | Specialty Care Live">
-<meta property="og:description" content="Put employee health first without compromising business with our telemedicine solutions. Call 469-545-8645 to inquire.">
+<meta property="og:description" content="Put employee health first without compromising business with our telemedicine solutions. Call 469-805-4561 to inquire.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/employers/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Telemedicine Solutions for the Employers | Specialty Care Live">
-<meta name="twitter:description" content="Put employee health first without compromising business with our telemedicine solutions. Call 469-545-8645 to inquire.">
+<meta name="twitter:description" content="Put employee health first without compromising business with our telemedicine solutions. Call 469-805-4561 to inquire.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/employers/">
 
@@ -121,11 +121,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "469-545-8645"
+          "telephone" : "469-805-4561"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "469-545-8645",
+      "telephone" : "469-805-4561",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -874,7 +874,7 @@ include("../header.php");
 
       <button class="accordion">What if I need technical assistance?</button>
       <div class="panels">
-        <p>If you need help or have technical issues, call <a style="color: #097ec2;text-decoration: underline;font-weight: 600;" href="tel:+1469-545-8645">469-545-8645</a>.</p>
+        <p>If you need help or have technical issues, call <a style="color: #097ec2;text-decoration: underline;font-weight: 600;" href="tel:+1469-805-4561">469-805-4561</a>.</p>
       </div>  
   </section>
 
@@ -919,7 +919,7 @@ include("../header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-545-8645" class="links cta-secondary footer-links"> 469-545-8645</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-805-4561" class="links cta-secondary footer-links"> 469-805-4561</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

@@ -18,19 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Wrist Pain | Specialty Care Live</title>
 
-<meta name="description" content="Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. If you or anyone you know is suffering from wrist pain, call 469-5458645 to schedule a tele-visit.">
+<meta name="description" content="Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. If you or anyone you know is suffering from wrist pain, call 469-805-4561 to schedule a tele-visit.">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Wrist Pain | Specialty Care Live">
-<meta property="og:description" content="Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. If you or anyone you know is suffering from wrist pain, call 469-5458645 to schedule a tele-visit.">
+<meta property="og:description" content="Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. If you or anyone you know is suffering from wrist pain, call 469-805-4561 to schedule a tele-visit.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/wp0.jpeg">
 <meta property="og:url" content="http://specialtycarelive.com/blog/wrist-pain">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Wrist Pain | Specialty Care Live">
-<meta name="twitter:description" content="Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. If you or anyone you know is suffering from wrist pain, call 469-5458645 to schedule a tele-visit.">
+<meta name="twitter:description" content="Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. If you or anyone you know is suffering from wrist pain, call 469-805-4561 to schedule a tele-visit.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/wp0.jpeg">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/wrist-pain">
 
@@ -160,11 +160,11 @@ fjs.parentNode.insertBefore(js, fjs);
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "469-545-8645"
+          "telephone" : "469-805-4561"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "469-545-8645",
+      "telephone" : "469-805-4561",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -401,7 +401,7 @@ data-layout="button_count">
 <section class="BlgStrtLast">
   <div class="container">
     <p>If you or anyone you know is suffering from unbearable wrist pain, the expert providers at Specialty Care Live take care of your health and help you recover.</a></p>
-    <p>Call <a href="tel:469-545-8645">469-545-8645</a> to book a telehealth appointment for an at-home check-up. You can <a href="http://specialtycarelive.com/contact-us/">request a callback from us</a> too.</p>
+    <p>Call <a href="tel:469-805-4561">469-805-4561</a> to book a telehealth appointment for an at-home check-up. You can <a href="http://specialtycarelive.com/contact-us/">request a callback from us</a> too.</p>
   </div>  
 </section>
 

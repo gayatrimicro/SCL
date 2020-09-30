@@ -18,19 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Contact Us | TeleHealth Services | Specialty Care Live</title>
 
-<meta name="description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call 469-545-8645 for a TeleHealth consultation now." >
+<meta name="description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call 469-805-4561 for a TeleHealth consultation now." >
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Contact Us | TeleHealth Services | Specialty Care Live">
-<meta property="og:description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call 469-545-8645 for a TeleHealth consultation now.">
+<meta property="og:description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call 469-805-4561 for a TeleHealth consultation now.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/telehealth-header.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/contact-us/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Contact Us | TeleHealth Services | Specialty Care Live">
-<meta name="twitter:description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call 469-545-8645 for a TeleHealth consultation now.">
+<meta name="twitter:description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call 469-805-4561 for a TeleHealth consultation now.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/telehealth-header.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/contact-us/">
 
@@ -93,11 +93,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "469-545-8645"
+          "telephone" : "469-805-4561"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "469-545-8645",
+      "telephone" : "469-805-4561",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -216,9 +216,9 @@ include("../header.php");
             
             <!-- <div class="buy-button" style="display:block;"> -->
 
-             <!-- <a href="tel:+1469-545-8645" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Call us at 469-545-8645 </a>  -->
+             <!-- <a href="tel:+1469-805-4561" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Call us at 469-805-4561 </a>  -->
 
-           <!-- <a href="tel:tel:+1469-545-8645" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin desk-margin-custom custom-btn-new">Call us at 469-545-8645</a> -->
+           <!-- <a href="tel:tel:+1469-805-4561" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin desk-margin-custom custom-btn-new">Call us at 469-805-4561</a> -->
 
             <!-- </div> -->
           </div>
@@ -269,7 +269,7 @@ include("../header.php");
          <div class="col-md-6">
             <h3 class="c-font-uppercase c-font-bold heading--subheadline c-center">Call us at</h3>
             <h1 class="c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
-           <a href="tel:+1469-545-8645">469-545-8645</a>
+           <a href="tel:+1469-805-4561">469-805-4561</a>
            </h1>
          </div>
 
@@ -457,7 +457,7 @@ $(document).ready(function() {
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-545-8645" class="links cta-secondary footer-links"> 469-545-8645</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-805-4561" class="links cta-secondary footer-links"> 469-805-4561</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

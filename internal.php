@@ -303,7 +303,7 @@ include("header.php");
             <p class="custom-fonts mobile-para-padding"> Specialty Care Live provides all patients with a convenient, secure and clinically informative encounter with our Physical Therapy team. Our remote therapists manage the rehabilitation of injuries and conditions by means of telemedicine. Our therapy program is supported by partnering with on-site medical staff to help patients hit program goals, as outlined by their physician orders.</p>
             
             <p class="text-left mobile-para-padding"> 
-                <a href="tel:+1469-545-8645" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at 469-545-8645</a>
+                <a href="tel:+1469-805-4561" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at 469-805-4561</a>
             </p>
           </div>
 
@@ -354,7 +354,7 @@ include("header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-545-8645" class="links cta-secondary footer-links"> 469-545-8645</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-805-4561" class="links cta-secondary footer-links"> 469-805-4561</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

@@ -18,19 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Blog | Specialty Care Live</title>
 
-<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation." >
+<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation." >
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
+<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/employers/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-545-8645 today to schedule your teleconsultation.">
+<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/employers/">
 
@@ -134,11 +134,11 @@ fjs.parentNode.insertBefore(js, fjs);
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "469-545-8645"
+          "telephone" : "469-805-4561"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "469-545-8645",
+      "telephone" : "469-805-4561",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",

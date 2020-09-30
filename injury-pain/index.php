@@ -19,19 +19,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Online Pain Management Clinic | Specialty Care Live</title>
 
-<meta name="description" content="Advanced pain management &amp; therapy online. Call 469-545-8645 for a telemedicine consultation." >
+<meta name="description" content="Advanced pain management &amp; therapy online. Call 469-805-4561 for a telemedicine consultation." >
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Online Pain Management Clinic | Specialty Care Live">
-<meta property="og:description" content="Advanced pain management &amp; therapy online. Call 469-545-8645 for a telemedicine consultation.">
+<meta property="og:description" content="Advanced pain management &amp; therapy online. Call 469-805-4561 for a telemedicine consultation.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/injury-pain_001.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/injury-pain/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Online Pain Management Clinic | Specialty Care Live">
-<meta name="twitter:description" content="Advanced pain management &amp; therapy online. Call 469-545-8645 for a telemedicine consultation.">
+<meta name="twitter:description" content="Advanced pain management &amp; therapy online. Call 469-805-4561 for a telemedicine consultation.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/injury-pain_001.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/injury-pain/">
 
@@ -121,11 +121,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "469-545-8645"
+          "telephone" : "469-805-4561"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "469-545-8645",
+      "telephone" : "469-805-4561",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -433,7 +433,7 @@ include("../header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-545-8645" class="links cta-secondary footer-links"> 469-545-8645</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-805-4561" class="links cta-secondary footer-links"> 469-805-4561</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

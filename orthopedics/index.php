@@ -17,19 +17,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Virtual Care Orthopaedic Center | Specialty Care Live</title>
 
-<meta name="description" content="Find the best online orthopedic telemedicine service. Call 469-545-8645 to schedule a tele-visit." >
+<meta name="description" content="Find the best online orthopedic telemedicine service. Call 469-805-4561 to schedule a tele-visit." >
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Virtual Care Orthopaedic Center | Specialty Care Live">
-<meta property="og:description" content="Find the best online orthopedic telemedicine service. Call 469-545-8645 to schedule a tele-visit.">
+<meta property="og:description" content="Find the best online orthopedic telemedicine service. Call 469-805-4561 to schedule a tele-visit.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/injury-pain_002.jpg">
 <meta property="og:url" content="http://specialtycarelive.com/orthopedics/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Virtual Care Orthopaedic Center | Specialty Care Live">
-<meta name="twitter:description" content="Find the best online orthopedic telemedicine service. Call 469-545-8645 to schedule a tele-visit.">
+<meta name="twitter:description" content="Find the best online orthopedic telemedicine service. Call 469-805-4561 to schedule a tele-visit.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/injury-pain_002.jpg">
 <meta name="twitter:url" content="http://specialtycarelive.com/orthopedics/">
 
@@ -122,11 +122,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "addressLocality": "Lancaster",
           "addressRegion": "Texas",
           "postalCode": "75146",
-          "telephone" : "469-545-8645"
+          "telephone" : "469-805-4561"
           },
       "contactPoint" : {
       "@type" : "ContactPoint",
-      "telephone" : "469-545-8645",
+      "telephone" : "469-805-4561",
       "faxNumber": "214-888-4450",
       "email" : "sccintake@cmclancaster.com",
       "contactType" : "Customer Service",
@@ -367,7 +367,7 @@ include("../header.php");
             <p class="custom-fonts mobile-para-padding"> Specialty Care Live provides all patients with a convenient, secure and clinically informative encounter with our Physical Therapy team. Our remote therapists manage the rehabilitation of injuries and conditions by means of telemedicine. Our therapy program is supported by partnering with on-site medical staff to help patients hit program goals, as outlined by their physician orders.</p>
             
             <p class="text-left mobile-para-padding"> 
-                <a href="tel:+1469-545-8645" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at 469-545-8645</a>
+                <a href="tel:+1469-805-4561" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at 469-805-4561</a>
             </p>
           </div>
 
@@ -418,7 +418,7 @@ include("../header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-545-8645" class="links cta-secondary footer-links"> 469-545-8645</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1469-805-4561" class="links cta-secondary footer-links"> 469-805-4561</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>
