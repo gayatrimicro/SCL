@@ -32,7 +32,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:title" content="What is Ankle Surgery?">
 <meta name="twitter:description" content="Ankle surgery might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. If you or anyone you know is suffering from ankle pain, call 469-805-4561 to schedule a tele-visit.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/as1.jpg">
-<meta name="twitter:url" content="http://specialtycarelive.com/blog/ulnar-wrist-pain">
+<meta name="twitter:url" content="http://specialtycarelive.com/blog/what-is-ankle-surgery">
 
 <meta name="robots" content="index, follow" />
 <meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1"/>

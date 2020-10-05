@@ -16,43 +16,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<title>Blog | Specialty Care Live</title>
+<title>Achilles Tendinitis | Specialty Care Live</title>
 
-<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation." >
+<meta name="description" content="Achilles tendinitis occurs mainly in runners who might have increased the pace of their running suddenly or have increased the run duration. Call (469)-805-4461 to book an appointment today!">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
-<meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta property="og:url" content="http://specialtycarelive.com/employers/">
+<meta property="og:title" content="Achilles Tendinitis | Specialty Care Live">
+<meta property="og:description" content="Achilles tendinitis occurs mainly in runners who might have increased the pace of their running suddenly or have increased the run duration. Call (469)-805-4461 to book an appointment today!">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/ach1.jpg">
+<meta property="og:url" content="http://specialtycarelive.com/blog/achilles-tendinitis">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on 469-805-4561 today to schedule your teleconsultation.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta name="twitter:url" content="http://specialtycarelive.com/employers/">
+<meta name="twitter:title" content="Achilles Tendinitis | Specialty Care Live">
+<meta name="twitter:description" content="Achilles tendinitis occurs mainly in runners who might have increased the pace of their running suddenly or have increased the run duration. Call (469)-805-4461 to book an appointment today!">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/ach1.jpg">
+<meta name="twitter:url" content="http://specialtycarelive.com/blog/achilles-tendinitis">
 
 <meta name="robots" content="index, follow" />
-<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1"/>
 
 
-<link rel="canonical" href="http://specialtycarelive.com/employers/">
-<link rel="alternate" href="http://specialtycarelive.com/employers/" hreflang="en-us" />
+<link rel="canonical" href="http://specialtycarelive.com/blog/achilles-tendinitis">
+<link rel="alternate" href="http://specialtycarelive.com/blog/achilles-tendinitis" hreflang="en-us"/>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
-<link href="../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
-<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/main.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/testimonials.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/newstyle.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/testimonials.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/newstyle.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
@@ -91,13 +91,39 @@ fjs.parentNode.insertBefore(js, fjs);
     margin-top: 2.11111rem;
     color: #3b3f48;
 }
-.Mn_blg .col-sm-4{
-  margin-bottom: 40px;
+.ReqCllbck{
+  background-color: #19365f;
+    color: #fff;
+    padding: 15px;
+    margin-top: 25px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.ReqCllbck:hover{
+  background-color: #097ec2;
+    color: #fff;
+}
+.h3bgh{
+      font-size: 25px;
+    margin-bottom: 35px;
+    font-weight: 600;
+    margin-top: 25px;
 }
 @media (max-width: 600px){
   .bigger-font-medium {
     font-size: 20px;
 }
+}
+@media (max-width: 767px) and (min-width: 320px){
+.h3bgh{
+    font-size: 25px;
+    margin-bottom: 28px;
+    margin-top: 30px !important; 
+    line-height: 32px;
+}
+}
+.ul_limar li{
+  margin-bottom: 0px !important;
 }
 </style>
 
@@ -161,7 +187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <?php
-include("../header.php");
+include("../../header.php");
 ?>
 
 
@@ -232,29 +258,38 @@ include("../header.php");
 
 <div class="c-layout-page"> 
 
-
-<section class="BacBlg">
-  <h3>Blog</h3>
-  <!-- Your share button code -->
-
+<section class="banner">
+   <div class="container new-container">
+      <div class="row">
+                  <div class="large-12 columns">
+                              <picture>
+                                 <source srcset="../../assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
+                                 <img src="../../assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content">
+                                
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Achilles Tendinitis</h3>
+                                 <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
+                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
+                                </p>
+                              </div>
+                  </div>
+               
+      </div>
+   </div>
 </section>
 <div class="BrdCrmb">
-  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a></p>
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a>  /  &nbsp;<a href="http://specialtycarelive.com/blog/achilles-tendinitis/">Achilles Tendinitis</a></p>
 </div>
-<section class="Mn_blg">
+<section class="BlgStrt">
   <div class="container">
-    <div class="row">
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ach0.jpg"></div>
-          <div class="Txtsec">
-            <h4>Achilles Tendinitis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 5/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">The Achilles tendon is known to join the calf muscle to the heel bone. The Achilles tendon runs down the back of the lower leg. Inflammation can be felt if the tendon is put under severe strain. This condition occurs mainly in runners who might have increased the pace of their running suddenly or have increased the run duration. </p>
-            <a href="../blog/achilles-tendinitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
+    <div class="ShaInfo">
+      <div class="row">
+        <div class="col-sm-6 text-left">
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 5/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
+        </div>
+        <div class="col-sm-6 text-right">
+          <div class="fb-share-button" 
 data-href="http://specialtycarelive.com/blog/achilles-tendinitis/" 
 data-layout="button_count">
 </div>
@@ -263,230 +298,117 @@ data-layout="button_count">
 <script type="IN/Share" data-url="http://specialtycarelive.com/blog/achilles-tendinitis/"></script>
 </div>
 <div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/achilles-tendinitis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/bc4.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bone Cancer</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 22/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Bone cancer can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. Bone cancer is rare, making up less than 1% of all cancers. In fact, non-cancerous bone tumors are much more common than the cancerous ones.</p>
-            <a href="../blog/what-is-bone-cancer-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-bone-cancer-symptoms-causes-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/as2.jpg"></div>
-          <div class="Txtsec">
-            <h4>Ankle Surgery</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 21/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Ankle surgery might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. The kind of surgery that is right for you depends upon your age, your level of activity, and the seriousness of your joint damage or deformity. Seriously affected ankle joints might require to have the bones fused together or even replaced with an artificial joint.</p>
-            <a href="../blog/what-is-ankle-surgery/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/what-is-ankle-surgery/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-ankle-surgery/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-ankle-surgery/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ulw2.jpg"></div>
-          <div class="Txtsec">
-            <h4>Ulnar Wrist Pain</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 16/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Ulnar wrist pain occurs on the side of your arm which has your pinkie-finger. It can result when your bones, cartilage, ligaments or tendons get injured severely. The pain worsens when you try to grip something.</p>
-            <a href="../blog/ulnar-wrist-pain/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/ulnar-wrist-pain/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/ulnar-wrist-pain/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/ulnar-wrist-pain/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
         </div>
       </div>
     </div>
-      <div class="row">
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/wp1.jpg"></div>
-          <div class="Txtsec">
-            <h4>Wrist Pain</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. Pain, stiffness & inflammation are some of the symptoms of an injury to your wrist or a wrist fracture.<br>You can also have a wrist injury in your ulna bone due to an accident.</p>
-            <a href="../blog/wrist-pain/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/wrist-pain/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/wrist-pain/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/wrist-pain/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/rhe5.jpg"></div>
-          <div class="Txtsec">
-            <h4>Rheumatoid Arthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Rheumatoid arthritis is a chronic inflammatory disorder that might affect more than just your joints. In some people, the condition might damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. An autoimmune disease, rheumatoid arthritis happens when your immune system mistakenly attacks your own body's tissues.</p>
-            <a href="../blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/bt0.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bursitis Treatment</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 2/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">The most common locations of bursitis are the hips, shoulders, knees, elbows, and heels of our foot. Among these, bursitis in hips is the most dangerous and can decrease mobility. There are two types of hip bursitis - trochanteric bursitis and iliopsoas bursa. </p>
-            <a href="../blog/bursitis-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis-treatment/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis-treatment/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-    </div>
+    <h1>Achilles Tendinitis</h1>
+    <p>The Achilles tendon is known to join the calf muscle to the heel bone. The Achilles tendon runs down the back of the lower leg. Inflammation can be felt if the tendon is put under severe strain. This condition occurs mainly in runners who might have increased the pace of their running suddenly or have increased the run duration. </p>
+    <p>Middle-aged people are also prone to this condition if they play certain sports like tennis or basketball only on weekends. Most of the time Achilles tendinitis could be treated simply by being at home and taking rest and care as directed by your doctor.</p>
+    <p>But if there is a tear or rupture in the tendon, it may require surgical repair. You use this tendon mostly to jump, run, walk, and stand, so it is of vital importance in your life.</p>
+    <a href="http://specialtycarelive.com/contact-us/" class="ReqCllbck">Request a callback</a>
+  </div>  
+</section>
+<section class="ul_limar lftRig">
+  <div class="container">    
     <div class="row">
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ost3.jpg"></div>
-          <div class="Txtsec">
-            <h4>Osteoarthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. It is also called a degenerative joint disease because it mainly affects the joints of your knees, hips, hands, and spine.</p>
-            <a href="../blog/osteoarthritis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/osteoarthritis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/osteoarthritis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/osteoarthritis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
+      <div class="col-sm-6">
+        <h3 class="h3bgh" style="margin-top: 0px;">Causes of Achilles Tendinitis</h3>
+        <p>As we know this condition is basically developed due to the heavy straining of this tendon as we walk, run, and stand on our toes. The band of tissues that connects your calf muscle to your heel bones gets strained and all the problems come into being.</p>
+        <p>As you age your Achilles Tendon weakens with the daily wear and tear of the heels bone. Rheumatoid arthritis and infection in the bones are also related or say lead to Tendonitis. Being aware of this condition in early diagnosis can lower the risks further, and help prevent serious injuries.</p>
       </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/burst1.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bursitis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
-            <a href="../blog/bursitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/neck-pain.jpg"></div>
-          <div class="Txtsec">
-            <h4>Degenerative Disc Disease</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
-            <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/degenerative-disc-disease/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/degenerative-disc-disease/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/degenerative-disc-disease/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
+      <div class="col-sm-6">
+        <img src="../../assets/images/blog/ach0.jpg" width="100%" alt="">
       </div>
     </div>
+    
+    <br>
+  </div>  
+</section> 
+<section class="lftRig">
+  <div class="container">
+        <p>There are several lists of causes of Achilles Tendinitis icd 10, some of them are discussed as follows.</p>
+        <ul>
+          <li><p>Using incorrect footwear or say shoes while walking or running: It’s very important to have a comfortable and right size of shoes when you walk or run. If you don’t keep this in mind you are not doing the right thing and calling out for trouble.</p></li>
+          <li><p>You need to warm up before exercising: your body is in a resting position before you start to exercise. If you suddenly start to work out, your body is put under higher strain.</p></li>
+          <li><p>The sudden introduction of hill running or stair climbing to your daily exercising routine.</p></li>
+          <li><p>Increasing the pace or intensity of exercises very quickly: once your body is accustomed to a certain pace, and you suddenly increase it, then it will surely strain your calf muscles and cause inflammation in some cases. So you need to be extra careful while suddenly increasing your pace of exercising as it may have an adverse effect on your body.</p></li>
+          <li><p>Running on hard or rough surfaces.</p></li>
+          <li><p>Sudden physical activity like running very fast to get to the finish line without practice.</p></li>
+          <li><p>Playing sports like Tennis which require sudden stops and quick changing of directions</p></li>
+          <li><p>Wearing high heels often or without being in a habit of doing so. Prolonged duration of wearing uncomfortable shoes can worsen your condition and put you at a higher risk of developing Achilles Tendinitis.</p></li>
+          <li><p>As you age you might become more prone to this condition, if you do not take the right measures.</p></li>
+        </ul>
+        <p>Differences in the foot or ankle anatomy can also lead to this condition. Extra bone growth or bone spurs can rub the Achilles tendon and cause unnecessary discomfort and damage.</p> 
   </div>
 </section>
+
+<section class="ul_limar lftRig">
+  <div class="container">    
+    <div class="row">
+      <div class="col-sm-6">
+        <img src="../../assets/images/blog/ach1.jpg" width="100%" alt="">
+      </div>
+      <div class="col-sm-6">
+        <h3 class="h3bgh" style="margin-top: 0px;">Achilles Tendinitis Symptoms</h3>
+        <p>The main symptom of the Achilles Tendinitis is a gradual but persistent pain which might worsen with time. This condition develops as you feel mild pain in the leg’s back or above the calf muscle. You might experience severe pain once you start straining yourself suddenly with sudden running, stairs climbing, or sprinting. Many times you might feel stiffness in the mornings in your tendons or leg tendons, which will ease off as you go on with your daily routine.</p>
+      </div>      
+    </div>
+    
+    <br>
+  </div>  
+</section>
+<section class="lftRig">
+  <div class="container">
+        <p>You might feel the below points in common if you develop Achilles tendinitis:</p>
+        <ul>
+          <li><p>The Achilles tendon might appear sore upon meeting the heel bone.</p></li>
+          <li><p>Pain in the Tendon once you run for a prolonged duration. You might feel a sheering pain in the leg’s back of the calf muscles.</p></li>
+          <li><p>The Achilles tendon has swollen or formed a bump.</p></li>
+          <li><p>When you move or when touched you feel creaking or severe pain.</p></li>
+          <li><p>Tightening of calf muscles.</p></li>
+          <li><p>When you feel that your heel is warmer than usual to touch, you must seek help.</p></li>
+        </ul>
+  </div>
+</section> 
+<section class="lftRig">
+  <div class="container">
+    <h3>Achilles Tendinitis Treatments</h3>
+        <p>Many treatments are available for Achilles Tendinitis, the most commonly used one is home remedies like taking proper rest and following the anti-inflammatory medications that your doctor has prescribed. There are many more invasive treatments like platelet plasma injection, steroid injections, and in many cases the last resort surgery. Your doctor might suggest the following:</p>
+        <ul>
+          <li><p>Reduction of your physical activity.</p></li>
+          <li><p>If only you want to play, switch to a less tiring or say less strenuous one.</p></li>
+          <li><p>Applying ice to the affected area of pain.</p></li>
+          <li><p>Gently stretching and after that straightening your calf muscles.</p></li>
+          <li><p>Wearing a brace to prevent heel movement.</p></li>
+          <li><p>Mild medication like aspirin, ibuprofen, or Advil as prescribed by your doctor.</p></li>
+          <li><p>Going to physiotherapy sessions.</p></li>
+          <li><p>Shoes which have in-built heels in them, which will not strain your heel muscles and you will be able to wear heels as well.</p></li>
+          <li><p>Alternating between high impact exercise and low ones while in pain will less likely stress your tendons. The benefits of this can be seen in the future.</p></li>
+          <li><p>You should invest in good compression bandages to ease the pain.</p></li>
+        </ul>
+        <p>Last but the least method that is surgery. In the worst-case scenario if nothing above works, surgery is the last resort. If not addressed timely you might feel severe pain in the heel area.</p>
+        <p>One surgical method is open repair and the other one is where the surgeon makes an incision in the region where the rapture has happened in your leg, then they pass needles with sutures, and finally tie the sutures together.</p> 
+  </div>
+</section>
+
+
+
+<section class="BlgStrtLast">
+  <div class="container">    
+    <p>If you or anyone you know is suffering from orthopedics related problems such as Achilles Tendinitis, the expert providers at Specialty Care Live take care of your health and help you recover.</a></p>
+    <p>Call <a href="tel:469-805-4561">469-805-4561</a> to book a telehealth appointment for an at-home check-up. You can <a href="http://specialtycarelive.com/contact-us/">request a callback from us</a> too.</p>
+  </div>  
+</section>
+
 
 
   
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="../../assets/slider/sweetalert.min.js"></script> 
 
  <?php
-include("../footer.php");
+include("../../footer.php");
 ?>
   
 </div>
