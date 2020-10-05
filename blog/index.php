@@ -314,7 +314,11 @@ data-layout="button_count">
         </div>
       </div>
 
-      <div class="col-sm-4">
+      
+    </div>
+      <div class="row">
+
+        <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/ulw2.jpg"></div>
           <div class="Txtsec">
@@ -336,8 +340,6 @@ data-layout="button_count">
           </div>
         </div>
       </div>
-    </div>
-      <div class="row">
 
       <div class="col-sm-4">
         <div class="InnBlgLis">
@@ -385,6 +387,10 @@ data-layout="button_count">
         </div>
       </div>
       
+      
+    </div>
+    <div class="row">
+
       <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/bt0.jpg"></div>
@@ -407,8 +413,6 @@ data-layout="button_count">
           </div>
         </div>
       </div>
-    </div>
-    <div class="row">
       <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/ost3.jpg"></div>
@@ -454,6 +458,9 @@ data-layout="button_count">
           </div>
         </div>
       </div>
+      
+    </div>
+    <div class="row">
       <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/neck-pain.jpg"></div>
