@@ -27,13 +27,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:type" content="Website">
 <meta property="og:title" content="What is Hip Dysplasia? What are its Symptoms, Causes and Treatment?">
 <meta property="og:description" content="Hip dysplasia is the medical name for a hip socket that does not fully cover the ball section of the upper thigh bone. If you or anyone you know is suffering from bone cancer, call 469-8054561 to schedule a tele-visit.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/ulw0.jpg">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/hpd0.png">
 <meta property="og:url" content="http://specialtycarelive.com/blog/what-is-hip-dysplasia-symptoms-causes-treatment">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="What is Hip Dysplasia? What are its Symptoms, Causes and Treatment?">
 <meta name="twitter:description" content="Hip dysplasia is the medical name for a hip socket that does not fully cover the ball section of the upper thigh bone. If you or anyone you know is suffering from bone cancer, call 469-8054561 to schedule a tele-visit.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/ulw0.jpg">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/hpd0.png">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/what-is-hip-dysplasia-symptoms-causes-treatment">
 
 <meta name="robots" content="index, follow" />
