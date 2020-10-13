@@ -380,7 +380,7 @@ data-layout="button_count">
 <section class="BlgStrtLast">
   <div class="container">
     <p>If you or anyone you know is suffering from orthopedics related problems such as Hip dysplasia, the expert providers at Specialty Care Live take care of your health and help you recover.</a></p>
-    <p>Call <a href="tel:469-8054561">469-8054561</a> to book a telehealth appointment for an at-home check-up. You can <a href="http://specialtycarelive.com/contact-us/">request a callback from us</a> too.</p>
+    <p>Call <a href="tel:469-805-4561">469-805-4561</a> to book a telehealth appointment for an at-home check-up. You can <a href="http://specialtycarelive.com/contact-us/">request a callback from us</a> too.</p>
   </div>  
 </section>
 
