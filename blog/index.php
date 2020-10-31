@@ -247,7 +247,7 @@ include("../header.php");
 
       <div class="col-sm-4">
         <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/hpd0.png"></div>
+          <div><img src="../assets/images/blog/abs1.png"></div>
           <div class="Txtsec">
             <h4>Absence Seizures</h4>
             <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 30/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>

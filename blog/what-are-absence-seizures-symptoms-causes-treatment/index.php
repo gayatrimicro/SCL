@@ -182,6 +182,12 @@ fjs.parentNode.insertBefore(js, fjs);
 .ListItem {
   padding-left: 30px !important;
 }
+.Comul li{
+  list-style: disc !important;
+}
+.Comul{
+  padding-left: 20px !important;
+}
 </style>
 </head>
 
@@ -387,21 +393,21 @@ data-layout="button_count">
   <div class="container">
     <h3 class="h3bgh">Complications</h3>
     <p>While most youngsters outgrow absence seizures, some:</p>
-    <ul>
-          <li><p>- Should take anti-seizure medications throughout life to prevent seizures</p></li>
-          <li><p>- Eventually have full convulsions, like generalized tonic-clonic seizures</p></li>
+    <ul class="Comul">
+          <li><p>Should take anti-seizure medications throughout life to prevent seizures</p></li>
+          <li><p>Eventually have full convulsions, like generalized tonic-clonic seizures</p></li>
         </ul><br>
     <p>Other complications could involve:</p>
 
-    <ul>
-          <li><p>- Learning difficulties</p></li>
-          <li><p>- Behavior problems</p></li>
-          <li><p>- Social isolation</p></li>
+    <ul class="Comul">
+          <li><p>Learning difficulties</p></li>
+          <li><p>Behavior problems</p></li>
+          <li><p>Social isolation</p></li>
         </ul><br>
 
     <h3 class="h3bgh">Diagnosis</h3>
     <p>Your primary care physician will ask for a detailed description of the seizures and conduct a physical examination. Tests might include:</p><br>
-    <ul>
+    <ul class="Comul">
           <li><p><b>Electroencephalography (EEG) -</b>This painless technique measures waves of electrical activity in the brain. Brain waves are sent to the Electroencephalography (EEG) machine via small electrodes attached or connected to the scalp with paste or an elastic cap.<br>Rapid breathing (hyperventilation) during an Electroencephalography (EEG) study could activate an absence seizure. At the time of a seizure, the pattern on the Electroencephalography (EEG) differs from the normal pattern.</p></li>
           <li><p><b>Brain scans -</b>In absence seizures, brain-imaging studies, like magnetic resonance imaging (MRI), will be normal. But tests like magnetic resonance imaging (MRI) could produce detailed images of the brain, which could help rule out other complications, like a stroke or a brain tumor. Because your child will be required to hold still for long periods, talk with your primary care physician about the possible use of sedation.</p></li>
         </ul>
