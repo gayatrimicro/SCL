@@ -247,6 +247,29 @@ include("../header.php");
 
       <div class="col-sm-4">
         <div class="InnBlgLis">
+          <div><img src="../assets/images/blog/sho3.jpg"></div>
+          <div class="Txtsec">
+            <h4>Separated Shoulder</h4>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 31/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="CuHei">A separated shoulder is an injury to the ligaments which hold your collarbone (clavicle) to your shoulder blade. In a mild separated shoulder, the ligaments may just be stretched or elongated. In serious injuries, ligaments may be torn.</p>
+            <a href="../blog/what-is-separated-shoulder-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            <hr class="hrshr">
+            <div class="fb-share-button" 
+data-href="http://specialtycarelive.com/blog/what-is-separated-shoulder-symptoms-causes-treatment/" 
+data-layout="button_count">
+</div>
+<div class="DBlk">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-separated-shoulder-symptoms-causes-treatment/"></script>
+</div>
+<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-separated-shoulder-symptoms-causes-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="InnBlgLis">
           <div><img src="../assets/images/blog/abs1.png"></div>
           <div class="Txtsec">
             <h4>Absence Seizures</h4>
@@ -291,7 +314,12 @@ data-layout="button_count">
         </div>
       </div>
 
-      <div class="col-sm-4">
+      
+      
+    </div>
+      <div class="row">
+
+        <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/ach0.jpg"></div>
           <div class="Txtsec">
@@ -313,9 +341,6 @@ data-layout="button_count">
           </div>
         </div>
       </div>
-      
-    </div>
-      <div class="row">
 
         <div class="col-sm-4">
         <div class="InnBlgLis">
@@ -363,7 +388,12 @@ data-layout="button_count">
         </div>
       </div>
 
-        <div class="col-sm-4">
+        
+
+      
+    </div>
+    <div class="row">
+      <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/ulw2.jpg"></div>
           <div class="Txtsec">
@@ -385,10 +415,6 @@ data-layout="button_count">
           </div>
         </div>
       </div>
-
-      
-    </div>
-    <div class="row">
 
       <div class="col-sm-4">
         <div class="InnBlgLis">
@@ -436,6 +462,11 @@ data-layout="button_count">
         </div>
       </div>
 
+      
+      
+      
+    </div>
+    <div class="row">
       <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/bt0.jpg"></div>
@@ -458,10 +489,6 @@ data-layout="button_count">
           </div>
         </div>
       </div>
-      
-      
-    </div>
-    <div class="row">
 
       <div class="col-sm-4">
         <div class="InnBlgLis">
