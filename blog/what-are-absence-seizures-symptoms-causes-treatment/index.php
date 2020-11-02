@@ -380,8 +380,8 @@ data-layout="button_count">
         <h3>Risk factors</h3>
         <p>Specific factors are common to children who have absence seizures, involving:</p>
         <ul>
-          <li><p><b>Age -</b>Absence seizures are more common in youngsters between the ages of 4 and 14.</p></li>
-          <li><p><b>Sex -</b>Absence seizures are more common in females.</p></li>
+          <li><p><b>Age - </b>Absence seizures are more common in youngsters between the ages of 4 and 14.</p></li>
+          <li><p><b>Sex - </b>Absence seizures are more common in females.</p></li>
           <li><p><b>Family members who suffered from seizures - </b>Nearly half of children with absence seizures have a close relative who has suffered from seizures.</p></li>
         </ul>
       </div>
