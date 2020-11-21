@@ -2,6 +2,7 @@
 <html lang="en" class="wf-lato-n3-active wf-lato-n4-active wf-active">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -14,7 +15,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="google-site-verification" content="bTYuHmF1wY3IOkwm46lCKSz85K6XmrUzVqMaqJgIP1g" />
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta content="width=device-width, initial-scale=1.0" name="viewport">
+
 
 <title>Blog | Specialty Care Live</title>
 
