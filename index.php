@@ -548,13 +548,13 @@ After the physician has diagnosed the issue, our care coordinator will review in
                     </div>
                     <!-- Bottom Carousel Indicators -->
                     <ol class="carousel-indicators">
-                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="assets/images/Andy400x400.png" alt="LUCILLE">
+                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://specialtycarelive.com/assets/images/Andy400x400.png" alt="LUCILLE">
                         </li>
-                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="assets/images/LinkedIn-Profile-Picture-Example-Rachel-Montañez.jpeg" alt="MYRA">
+                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://specialtycarelive.com/assets/images/LinkedIn-Profile-Picture-Example-Rachel-Montañez.jpeg" alt="MYRA">
                         </li>
-                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="assets/images/Brian-Smith-400x400.jpg" alt="HICKS">
+                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://specialtycarelive.com/assets/images/Brian-Smith-400x400.jpg" alt="HICKS">
                         </li>
-                        <li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="assets/images/18_JesseSmith-Appelson-400x400.jpg" alt="TINA">
+                        <li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="http://specialtycarelive.com/assets/images/18_JesseSmith-Appelson-400x400.jpg" alt="TINA">
                         </li>
                     </ol>
 
