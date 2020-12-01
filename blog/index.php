@@ -248,6 +248,29 @@ include("../header.php");
 
       <div class="col-sm-4">
         <div class="InnBlgLis">
+          <div><img src="../assets/images/blog/got1.jpg"></div>
+          <div class="Txtsec">
+            <h4>Gout</h4>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 1/12/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="CuHei">Gout is a common and complicated form of arthritis which could affect anyone. It is characterized by unexpected, serious attacks of pain, inflammation, redness and tenderness in the joints, usually the joint at the bottom of the big toe.</p>
+            <a href="../blog/what-is-gout-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            <hr class="hrshr">
+            <div class="fb-share-button" 
+data-href="http://specialtycarelive.com/blog/what-is-gout-symptoms-causes-treatment/" 
+data-layout="button_count">
+</div>
+<div class="DBlk">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-gout-symptoms-causes-treatment/"></script>
+</div>
+<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-gout-symptoms-causes-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="InnBlgLis">
           <div><img src="../assets/images/blog/sho3.jpg"></div>
           <div class="Txtsec">
             <h4>Separated Shoulder</h4>
@@ -292,7 +315,14 @@ data-layout="button_count">
         </div>
       </div>
 
-      <div class="col-sm-4">
+      
+
+      
+      
+    </div>
+      <div class="row">
+
+        <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/hpd0.png"></div>
           <div class="Txtsec">
@@ -314,11 +344,6 @@ data-layout="button_count">
           </div>
         </div>
       </div>
-
-      
-      
-    </div>
-      <div class="row">
 
         <div class="col-sm-4">
         <div class="InnBlgLis">
@@ -366,7 +391,11 @@ data-layout="button_count">
         </div>
       </div>
 
-        <div class="col-sm-4">
+        
+    </div>
+    <div class="row">
+
+      <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/as2.jpg"></div>
           <div class="Txtsec">
@@ -389,11 +418,7 @@ data-layout="button_count">
         </div>
       </div>
 
-        
 
-      
-    </div>
-    <div class="row">
       <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/ulw2.jpg"></div>
@@ -440,6 +465,11 @@ data-layout="button_count">
         </div>
       </div>
 
+    
+      
+    </div>
+    <div class="row">
+
       <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/rhe5.jpg"></div>
@@ -463,11 +493,6 @@ data-layout="button_count">
         </div>
       </div>
 
-      
-      
-      
-    </div>
-    <div class="row">
       <div class="col-sm-4">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/bt0.jpg"></div>
