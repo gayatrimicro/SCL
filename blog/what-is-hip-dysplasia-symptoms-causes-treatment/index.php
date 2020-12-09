@@ -179,6 +179,7 @@ fjs.parentNode.insertBefore(js, fjs);
     ]
     }
 </script>
+<meta name="yandex-verification" content="5617cd75db09312c" />
 </head>
 
 <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen"> 
