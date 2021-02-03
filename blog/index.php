@@ -251,7 +251,7 @@ include("../header.php");
           <div><img src="../assets/images/blog/aml1.jpg"></div>
           <div class="Txtsec">
             <h4>Acute Myelogenous Leukemia</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 2/1/2021</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 1/2/2021</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Acute myelogenous leukemia (AML) is a cancer of the blood and bone marrow the spongy tissue within the bones where blood cells are formed.<br>The word "acute" in acute myelogenous leukemia signifies the disease's rapid progression.</p>
             <a href="../blog/what-is-acute-myelogenous-leukemia-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -274,7 +274,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/got1.jpg"></div>
           <div class="Txtsec">
             <h4>Gout</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 1/12/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 12/1/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Gout is a common and complicated form of arthritis which could affect anyone. It is characterized by unexpected, serious attacks of pain, inflammation, redness and tenderness in the joints, usually the joint at the bottom of the big toe.</p>
             <a href="../blog/what-is-gout-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -297,7 +297,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/sho3.jpg"></div>
           <div class="Txtsec">
             <h4>Separated Shoulder</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 31/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/31/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">A separated shoulder is an injury to the ligaments which hold your collarbone (clavicle) to your shoulder blade. In a mild separated shoulder, the ligaments may just be stretched or elongated. In serious injuries, ligaments may be torn.</p>
             <a href="../blog/what-is-separated-shoulder-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -329,7 +329,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/abs1.png"></div>
           <div class="Txtsec">
             <h4>Absence Seizures</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 30/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/30/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Absence seizures include brief, sudden lapses of consciousness. They are more common in youngsters than in adults.<br>Someone having an absence seizure might look like he or she is staring blankly into space for a few moments.</p>
             <a href="../blog/what-are-absence-seizures-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -352,7 +352,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/hpd0.png"></div>
           <div class="Txtsec">
             <h4>Hip Dysplasia</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/8/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Hip dysplasia is the medical terminology for a hip socket that does not fully cover the ball section of the upper thigh bone. This permits the hip joint to become partially or completely dislocated. Most people with hip dysplasia are born with the state. Primary care physicians will check your baby for signs of hip dysplasia shortly after birth and during well-baby visits. If hip dysplasia is detected in early infancy, a soft brace could generally correct the problem. </p>
             <a href="../blog/what-is-hip-dysplasia-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -375,7 +375,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/ach0.jpg"></div>
           <div class="Txtsec">
             <h4>Achilles Tendinitis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 5/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/5/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">The Achilles tendon is known to join the calf muscle to the heel bone. The Achilles tendon runs down the back of the lower leg. Inflammation can be felt if the tendon is put under severe strain. This condition occurs mainly in runners who might have increased the pace of their running suddenly or have increased the run duration. </p>
             <a href="../blog/achilles-tendinitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -404,7 +404,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/bc4.jpg"></div>
           <div class="Txtsec">
             <h4>Bone Cancer</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 22/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 9/22/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Bone cancer can start in any bone of the body, but it most commonly damages the pelvis or the long bones in the arms and legs. Bone cancer is rare, making up less than 1% of all cancers. In fact, non-cancerous bone tumors are much more common than the cancerous ones.</p>
             <a href="../blog/what-is-bone-cancer-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -427,7 +427,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/as2.jpg"></div>
           <div class="Txtsec">
             <h4>Ankle Surgery</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 21/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 9/21/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Ankle surgery might be an option when more conservative treatments do not relieve ankle pain caused by serious arthritis. The kind of surgery that is right for you depends upon your age, your level of activity, and the seriousness of your joint damage or deformity. Seriously affected ankle joints might require to have the bones fused together or even replaced with an artificial joint.</p>
             <a href="../blog/what-is-ankle-surgery/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -451,7 +451,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/ulw2.jpg"></div>
           <div class="Txtsec">
             <h4>Ulnar Wrist Pain</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 16/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 9/16/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Ulnar wrist pain occurs on the side of your arm which has your pinkie-finger. It can result when your bones, cartilage, ligaments or tendons get injured severely. The pain worsens when you try to grip something.</p>
             <a href="../blog/ulnar-wrist-pain/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -481,7 +481,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/wp1.jpg"></div>
           <div class="Txtsec">
             <h4>Wrist Pain</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 9/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Wrist sprain & tendinitis of wrist are the most common causes of wrist pain. Pain, stiffness & inflammation are some of the symptoms of an injury to your wrist or a wrist fracture.<br>You can also have a wrist injury in your ulna bone due to an accident.</p>
             <a href="../blog/wrist-pain/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -504,7 +504,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/rhe5.jpg"></div>
           <div class="Txtsec">
             <h4>Rheumatoid Arthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 9/8/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Rheumatoid arthritis is a chronic inflammatory disorder that might affect more than just your joints. In some people, the condition might damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. An autoimmune disease, rheumatoid arthritis happens when your immune system mistakenly attacks your own body's tissues.</p>
             <a href="../blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -527,7 +527,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/bt0.jpg"></div>
           <div class="Txtsec">
             <h4>Bursitis Treatment</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 2/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 9/2/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">The most common locations of bursitis are the hips, shoulders, knees, elbows, and heels of our foot. Among these, bursitis in hips is the most dangerous and can decrease mobility. There are two types of hip bursitis - trochanteric bursitis and iliopsoas bursa. </p>
             <a href="../blog/bursitis-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -550,7 +550,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/ost3.jpg"></div>
           <div class="Txtsec">
             <h4>Osteoarthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 7/8/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. It is also called a degenerative joint disease because it mainly affects the joints of your knees, hips, hands, and spine.</p>
             <a href="../blog/osteoarthritis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -573,7 +573,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/burst1.jpg"></div>
           <div class="Txtsec">
             <h4>Bursitis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 7/28/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
             <a href="../blog/bursitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
@@ -595,7 +595,7 @@ data-layout="button_count">
           <div><img src="../assets/images/blog/neck-pain.jpg"></div>
           <div class="Txtsec">
             <h4>Degenerative Disc Disease</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 6/24/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
             <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">

@@ -299,7 +299,7 @@ include("../../header.php");
     <div class="ShaInfo">
       <div class="row">
         <div class="col-sm-6 text-left">
-          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 30/10/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 10/30/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
         </div>
         <div class="col-sm-6 text-right">
           <div class="fb-share-button" 
