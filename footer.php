@@ -37,7 +37,7 @@
         <hr class="global-footer__separator">
         <div class="global-footer__container">
           <div class="global-footer-company-links">
-            <small class="global-footer-company-links__copyright"> © 2020 Specialty Care Live. All rights reserved. </small> </div>
+            <small class="global-footer-company-links__copyright"> © 2021 Specialty Care Live. All rights reserved. </small> </div>
         </div>
       </div>
     </footer>
