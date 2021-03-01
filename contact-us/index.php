@@ -270,7 +270,7 @@ include("../header.php");
          <div class="col-md-6">
             <h3 class="c-font-uppercase c-font-bold heading--subheadline c-center">Call us at</h3>
             <h1 class="c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
-           <a href="tel:+1469-805-4561">469-805-4561</a>
+           <a href="tel:+469-545-9983">469-545-9983</a>
            </h1>
          </div>
 
